@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Studies\\CRM System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj": {}
+    "G:\\GitHub Repo Cloned\\SoulReaper96\\CRM-System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj": {}
   },
   "projects": {
-    "G:\\Studies\\CRM System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj": {
+    "G:\\GitHub Repo Cloned\\SoulReaper96\\CRM-System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Studies\\CRM System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj",
+        "projectUniqueName": "G:\\GitHub Repo Cloned\\SoulReaper96\\CRM-System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj",
         "projectName": "CRM System_WinForms",
-        "projectPath": "G:\\Studies\\CRM System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj",
+        "projectPath": "G:\\GitHub Repo Cloned\\SoulReaper96\\CRM-System_WinForms\\CRM System_WinForms\\CRM System_WinForms.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Studies\\CRM System_WinForms\\CRM System_WinForms\\obj\\",
+        "outputPath": "G:\\GitHub Repo Cloned\\SoulReaper96\\CRM-System_WinForms\\CRM System_WinForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

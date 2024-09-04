@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CRM_System_WinForms
-build_property.ProjectDir = G:\Studies\CRM System_WinForms\CRM System_WinForms\
+build_property.ProjectDir = G:\GitHub Repo Cloned\SoulReaper96\CRM-System_WinForms\CRM System_WinForms\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
