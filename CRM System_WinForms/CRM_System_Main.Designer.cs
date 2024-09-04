@@ -32,7 +32,7 @@
             Name_txtBox = new TextBox();
             Email_txtBox = new TextBox();
             Email_lbl = new Label();
-            button1 = new Button();
+            Add_btn = new Button();
             Customers_lstBox = new ListBox();
             SuspendLayout();
             // 
@@ -68,15 +68,15 @@
             Email_lbl.TabIndex = 2;
             Email_lbl.Text = "Email";
             // 
-            // button1
+            // Add_btn
             // 
-            button1.Location = new Point(415, 124);
-            button1.Name = "button1";
-            button1.Size = new Size(50, 21);
-            button1.TabIndex = 4;
-            button1.Text = "ADD";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += this.button1_Click;
+            Add_btn.Location = new Point(415, 124);
+            Add_btn.Name = "Add_btn";
+            Add_btn.Size = new Size(50, 21);
+            Add_btn.TabIndex = 4;
+            Add_btn.Text = "ADD";
+            Add_btn.UseVisualStyleBackColor = true;
+            Add_btn.Click += Add_btn_Click;
             // 
             // Customers_lstBox
             // 
@@ -94,7 +94,7 @@
             BackColor = Color.White;
             ClientSize = new Size(510, 450);
             Controls.Add(Customers_lstBox);
-            Controls.Add(button1);
+            Controls.Add(Add_btn);
             Controls.Add(Email_txtBox);
             Controls.Add(Email_lbl);
             Controls.Add(Name_txtBox);
@@ -114,7 +114,7 @@
         private TextBox Name_txtBox;
         private TextBox Email_txtBox;
         private Label Email_lbl;
-        private Button button1;
+        private Button Add_btn;
         private ListBox Customers_lstBox;
     }
 }

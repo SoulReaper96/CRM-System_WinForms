@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM System_WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6021e0b43290c0a446f5434c9398b6125b697678")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b6385d77282a00dc4a9f47cdeeae6865a3e45a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM System_WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM System_WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
